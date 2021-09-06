@@ -1,7 +1,7 @@
 <h1> Hi there..! <img src="https://github.com/UdawalaHewageDilan/UdawalaHewageDilan/blob/main/Hi.gif" width="29px"> </h1>
 
 
-**🔭 I’m currently working on my <a href="https://github.com/UdawalaHewageDilan/capstonehttps://github.com/UdawalaHewageDilan/capstone"><b>Strive School AI and Data Science Capstone Project</b> </a> and Text Style Transfer Project**<br>
+**🔭 I’m currently working on my <a href="https://github.com/UdawalaHewageDilan/StriveAI_Capstone"><b>Strive School AI and Data Science Capstone Project</b> </a> and Text Style Transfer Project**<br>
 **🌱 I’m currently learning NLP and Deep Learning**
 <br>
 <br>
