@@ -16,6 +16,7 @@
 <code><a href="https://www.sqlite.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
 <code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
+<code><a href="https://spark.apache.org/" target="_blank"><img height="50" src="https://spark.apache.org/images/spark-logo-trademark.png"></a></code>
 <br>
 <code><a href="https://opencv.org/" target="_blank"><img height="50" src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png"></a></code>
 <code><a href="https://huggingface.co/" target="_blank"><img height="50" src="https://huggingface.co/front/assets/course-logo.svg"></a></code>
