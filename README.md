@@ -20,6 +20,7 @@
 <code><a href="https://spark.apache.org/" target="_blank"><img height="50" src="https://spark.apache.org/images/spark-logo-trademark.png"></a></code>
 <br>
 <code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://nodejs.org/static/images/logo.svg"></a></code>
+<code><a href="https://spacy.io/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/220px-SpaCy_logo.svg.png"></a></code>
 <br>
 <code><a href="https://opencv.org/" target="_blank"><img height="50" src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png"></a></code>
 <code><a href="https://huggingface.co/" target="_blank"><img height="50" src="https://huggingface.co/front/assets/course-logo.svg"></a></code>
